@@ -1,0 +1,11 @@
+.link-hover:hover{
+    box-shadow: 5px 5px 30px rgb(0, 0, 0);
+    transition: 0.4s; 
+}
+.img-hover:hover{
+    scale: 1.1;
+    box-shadow: 5px 5px 30px black;
+    transition: 0.4s;
+    z-index: 1;
+    border-radius: 6px; 
+}
